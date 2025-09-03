@@ -1,0 +1,11 @@
+{
+  "name": "kafka-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/premprvkvsh/Kafka-app.git",
+  "author": "prem",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
